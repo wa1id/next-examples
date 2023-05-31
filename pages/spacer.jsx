@@ -1,8 +1,9 @@
 import Link from 'next/link'
 
-export default function Home() {
+export default function Spacer() {
   return (
     <>
+      <div class="spacer"></div>
       <header>
         <nav className="p-8">
           <ul className="list-disc list-inside">
