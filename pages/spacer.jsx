@@ -19,9 +19,7 @@ export default function Spacer() {
               <Link href="/ssg">SSG</Link>
             </li>
             <li>
-              <Link href="/isr" prefetch={false}>
-                ISR
-              </Link>
+              <Link href="/isr">ISR</Link>
             </li>
           </ul>
         </nav>
