@@ -14,7 +14,6 @@ export default function Home() {
               <Link href="/default-ssr">Default SSR</Link>
             </li>
             <li className="line-through">SSR Lazy</li>
-            <li className="line-through">Minimize Payload</li>
             <li>
               <Link href="/client">Client</Link>
             </li>
