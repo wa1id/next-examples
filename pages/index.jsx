@@ -1,8 +1,12 @@
 import Link from 'next/link'
+import Head from 'next/head'
 
 export default function Home() {
   return (
     <>
+      <Head>
+        <title>Next.js Demo</title>
+      </Head>
       <header>
         <nav className="p-8">
           <ul className="list-disc list-inside">
